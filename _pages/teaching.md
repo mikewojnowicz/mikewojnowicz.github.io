@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Selected TIDAL workshops taught at Tufts University:
 
-Organize your courses by years, topics, or universities, however you like!
+* [Introduction to Bayesian Modeling](https://mikewojnowicz.github.io/bayesian_modeling/) - Cotaught with Karin Knudson.
+* [Crash Course in Measure Theory](https://github.com/mikewojnowicz/probability_and_measure_theory/blob/master/ash_notes/ash_notes.pdf)

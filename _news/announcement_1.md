@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2022-07-29 16:11:00-0400
+inline: true 
 ---
 
-A simple inline announcement.
+Invited speaker at Harvard University's [Data to Actionable Knowledge Lab](https://dtak.github.io/).
