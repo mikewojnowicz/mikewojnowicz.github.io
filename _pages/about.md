@@ -19,6 +19,8 @@ Hi! I'm a postdoctoral researcher in statistical machine learning at Tufts Unive
 
 I'm interested in statistical machine learning, particularly scalable Bayesian inference, time series modeling, and methodologies using measure-theoretic probability.
 
+<!---  
 **Email**: Michael [DOT] Wojnowicz [AT] tufts [DOT] edu.
 
 **Links**: Follow me on [Twitter](https://twitter.com/mtwojnowicz), see my [Google Scholar](https://scholar.google.com/citations?user=5O4vP3EAAAAJ&hl=en&oi=ao), or see recent publications below. 
+--->
