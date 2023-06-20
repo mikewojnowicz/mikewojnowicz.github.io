@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a postdoctoral researcher in statistical machine learning at Tufts University and a data scientist at the [Data Intensive Studies Center](https://disc.tufts.edu/people).
+Hi! I'm a postdoctoral researcher in statistical machine learning at Tufts University and a data scientist at the [Data Intensive Studies Center](https://disc.tufts.edu/people).   Starting September 2023, I will be a research associate at Harvard University in the Department of Biostatistics.
 
 I'm interested in statistical machine learning, particularly scalable Bayesian inference, time series modeling, and methodologies using measure-theoretic probability.
 

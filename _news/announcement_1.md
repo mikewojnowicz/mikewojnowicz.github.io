@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2023-01-09 16:11:00-0400
+date: 2023-06-20 16:11:00-0400
 inline: true 
 ---
 
-Starting September 2023, I will be a research associate at Harvard University in the Department of Biostatistics.  I will be developing statistical methods and theory for finding patterns in complex biomedical data, under the direction of [Dr. Jeffrey Miller](http://jwmi.github.io/). 
+Our paper _Approximate inference by broadening the support of the likelihood_ has been accepted for presentation at the [
+5th Symposium on
+Advances in Approximate Bayesian Inference](http://approximateinference.org/). This is joint work with Assistant Professor Michael C. Hughes and Mathematics Ph.D. student Martin Buck. 
