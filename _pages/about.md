@@ -5,7 +5,7 @@ permalink: /
 #subtitle: Researcher in statistical machine learning at Tufts University's Data Intensive Studies Center.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
 #  address: 
