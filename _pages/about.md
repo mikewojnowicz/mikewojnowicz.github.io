@@ -18,9 +18,3 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm a research associate at Harvard University in the Department of Biostatistics. I'm interested in statistical 
 machine learning, particularly scalable Bayesian inference, time series modeling, and methodologies 
 using measure-theoretic probability.
-
-<!---  
-**Email**: mwojnowicz [AT] hsph [DOT] harvard [DOT] edu.
-
-**Links**: Follow me on [Twitter](https://twitter.com/mtwojnowicz), see my [Google Scholar](https://scholar.google.com/citations?user=5O4vP3EAAAAJ&hl=en&oi=ao), or see recent publications below. 
---->
