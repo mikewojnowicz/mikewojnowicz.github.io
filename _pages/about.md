@@ -15,6 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a research associate at Harvard University in the Department of Biostatistics. I'm interested in statistical 
-machine learning, particularly scalable Bayesian inference, time series modeling, and methodologies 
-using measure-theoretic probability.
+Hi! I'm a research associate at Harvard University in the Department of Biostatistics. 
+
+I'm interested in statistical  machine learning, particularly scalable Bayesian inference, time series modeling, and methodologies using measure-theoretic probability.
