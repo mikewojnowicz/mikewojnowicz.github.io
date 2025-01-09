@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-05-24 16:11:00-0400
+date: 2025-01-01 16:11:00-0400
 inline: true 
 ---
 
-I presented new work _Scalable Bayesian multi-sample changepoint modeling_ at the _Recent Advances in Variational Inference_ session of the 2024 New England Statistics Symposium.
+I have started a position as assistant professor in the Gianforte School of Computing at Montana State University.
