@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm an assistant professor in the [School of Computing at Montana State University](https://www.cs.montana.edu/).  Previously, I was a research associate at [Harvard University in the Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/), advised by [Dr. Jeffrey Miller](http://jwmi.github.io/).   Prior to that, I was a postdoctoral researcher with [Tufts University Machine Learning](https://github.com/tufts-ml), advised by Computer Science Professor [Michael C. Hughes](https://www.michaelchughes.com/), as well as a Data Scientist at Tufts' [Data Intensive Studies Center](https://disc.tufts.edu/).  
+Hi! I'm Assistant Professor and Hambly Endowed Chair in the [School of Computing at Montana State University](https://www.cs.montana.edu/).  Previously, I was a research associate at [Harvard University in the Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/), advised by [Dr. Jeffrey Miller](http://jwmi.github.io/).   Prior to that, I was a postdoctoral researcher with [Tufts University Machine Learning](https://github.com/tufts-ml), advised by Computer Science Professor [Michael C. Hughes](https://www.michaelchughes.com/), as well as a Data Scientist at Tufts' [Data Intensive Studies Center](https://disc.tufts.edu/).  
 
 I'm interested in statistical  machine learning, particularly scalable Bayesian inference, time series modeling, and methodologies using measure-theoretic probability.
