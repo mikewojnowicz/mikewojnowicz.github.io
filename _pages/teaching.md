@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Selected graduate-level workshops taught at Tufts University via the Tufts Initiative for Data and Analytics Learning (TIDAL) from 2021 to 2023:
 
-Organize your courses by years, topics, or universities, however you like!
+* [Introduction to Bayesian Modeling](https://mikewojnowicz.github.io/bayesian_modeling/) - Cotaught with Karin Knudson.
+* [Crash Course in Measure Theory](https://github.com/mikewojnowicz/probability_and_measure_theory/blob/master/notes/ash_notes.pdf)
+
+Selected courses taught at Montana State University's Gianforte School of Computing from 2025 and beyond:
+
+* [Discrete Structures](https://github.com/mikewojnowicz/csci246_spring2025) - A discrete mathematics course for computer science undergraduates.

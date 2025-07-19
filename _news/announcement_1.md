@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
-related_posts: false
+date: 2025-07-18 16:11:00-0400
+inline: true 
 ---
 
-A simple inline announcement.
+Our paper, [Discovering group dynamics in coordinated time series via hierarchical recurrent switching-state models](https://arxiv.org/pdf/2401.14973), has been accepted for publication in TMLR 2025.
