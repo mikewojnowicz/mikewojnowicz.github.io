@@ -4,38 +4,38 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
-          description: "Below is a list of selected recent publications.",
+          title: "Publications",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Below are some sample repositories for which I&#39;ve been the primary developer.",
+        },{id: "nav-lab",
+          title: "Lab",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/lab/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-lab",
-          title: "lab",
-          description: "",
+        },{id: "nav-repositories",
+          title: "Repositories",
+          description: "Below are some sample repositories for which I&#39;ve been the primary developer.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lab/";
+            window.location.href = "/repositories/";
           },
         },{id: "post-a-post-with-plotly-js",
         
