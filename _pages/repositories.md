@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
+display_title: Sample repositories
 description: Below are some sample repositories for which I've been the primary developer.
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}

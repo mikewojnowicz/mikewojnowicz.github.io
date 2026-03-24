@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /lab/
-title: lab
+title: Lab
+display_title: MSU Probabilistic Machine Learning (ProbML) Lab
 description:
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 ### Lab Members
@@ -14,38 +15,41 @@ nav_order: 4
 
   <div>
     <strong>Jack Ruder (PhD Student)</strong><br><br>
-    <img src="/assets/img/jack.png" style="width:50%;">
+    <img src="/assets/img/jack.jpeg" style="width:50%;">
     <br><br>
     <small>Diffusion models for time series</small>
   </div>
 
   <div>
     <strong>Kunal Das (Postdoc)</strong><br><br>
-    <img src="/assets/img/kunal.png" style="width:50%;">
+    <img src="/assets/img/kunal.jpg" style="width:50%;">
     <br><br>
     <small>Spatiotemporal Causal Inference</small>
   </div>
 
   <div>
     <strong>Landry Clarke (Undergrad)</strong><br><br>
-    <img src="/assets/img/landry.png" style="width:50%;">
+    <img src="/assets/img/landry.jpg" style="width:50%;">
     <br><br>
-    <small>Deep Hierarchical N-Grams</small>
+    <small>Deep Hierarchical Gaussian N-Grams
+    <br>
+        * Winner: MSU Undergraduate Scholars research award</small>
   </div>
 
   <div>
-    <strong>Owen Cool (MS)</strong><br><br>
+    <strong>Owen Cool (Accelerated Master's)</strong><br><br>
     <img src="/assets/img/owen.png" style="width:50%;">
     <br><br>
     <small>TBD</small>
   </div>
 
+<br><br>
 </div>
 
 
 ### Applying to join the lab
 
-To apply to become a Ph.D. student into my probabilistic machine learning laboratory at Montana State University,  please send the following standard application materials:
+To apply to become a Ph.D. student into the Probabilistic Machine Learning (ProbML) laboratory at Montana State University,  please send the following standard application materials:
 1. A 2-4 page research statement (“statement of purpose”)
 2. A 1-2 page curriculum vitae
 3. Transcripts

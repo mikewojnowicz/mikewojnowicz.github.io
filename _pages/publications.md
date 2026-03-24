@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Below is a list of selected recent publications.
+title: Publications
+display_title: Selected Recent Publications
+description:
 nav: true
 nav_order: 1
 ---
