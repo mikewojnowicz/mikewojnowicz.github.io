@@ -14,4 +14,5 @@ Selected graduate-level workshops taught at Tufts University via the Tufts Initi
 
 Selected courses taught at Montana State University's Gianforte School of Computing from 2025 and beyond:
 
-* [Discrete Structures](https://github.com/mikewojnowicz/csci246_spring2025) - A discrete mathematics course for computer science undergraduates.
+* [Discrete Structures](https://github.com/mikewojnowicz/csci246_fall2025) - A discrete mathematics course for computer science undergraduates.
+* [Topics in Advanced AI: Diffusion Modeling](https://github.com/mikewojnowicz/csci546_spring2026) - A graduate level computer science course.
