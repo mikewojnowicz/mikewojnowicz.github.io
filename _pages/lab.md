@@ -50,16 +50,24 @@ nav_order: 2
 ### Applying to join the lab
 
 To apply to become a Ph.D. student into the Probabilistic Machine Learning (ProbML) laboratory at Montana State University,  please send the following standard application materials:
-1. A 2-4 page research statement (“statement of purpose”)
-2. A 1-2 page curriculum vitae
-3. Transcripts
-4. Names, positions, and email addresses of 3 references (who can attest to your potential to do research)
+<ol>
+  <li>A 2-4 page research statement (“statement of purpose”)</li>
+  <li>A 1-2 page curriculum vitae</li>
+  <li>Transcripts</li>
+  <li>Names, positions, and email addresses of 3 references</li>
+</ol>
 
-Optionally, if you have them, please also send
-5. A writing sample
-6. GRE scores 
+<p>Optionally, if you have them, please also send</p>
 
-Finally, this is quite optional, but if you’d like, you may also send
-7. A 1-2 page personal statement 
+<ol start="5">
+  <li>A writing sample</li>
+  <li>GRE scores</li>
+</ol>
+
+<p>Finally, this is quite optional, but if you’d like, you may also send</p>
+
+<ol start="7">
+  <li>A 1-2 page personal statement</li>
+</ol>
 
 For further information on what #1 and #7 are, see for example [here](https://gsas.harvard.edu/apply/applying-degree-programs/statement-purpose-personal-statement-and-writing-sample) or [here](https://ischool.uw.edu/programs/phd/admissions/application-materials#pers).    If you’d like to apply, whenever you have the materials collected, please send me an email with the materials attached. 
