@@ -436,7 +436,7 @@ ninja.data = [{
           title: 'Landry Clarke has just been awarded an MSU Undergraduate Scholar Program Fellowship for...',
           description: "",
           section: "News",},{id: "news-our-workshop-paper-diffusion-driven-state-space-models-led-by-ph-d-student-jack-ruder-has-been-accepted-for-presentation-at-probml-2026",
-          title: 'Our workshop paper [Diffusion-driven state space models], led by Ph.D. student Jack Ruder,...',
+          title: 'Our workshop paper Diffusion-driven state space models, led by Ph.D. student Jack Ruder,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
