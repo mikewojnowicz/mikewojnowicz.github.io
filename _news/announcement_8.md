@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-29 16:11:00-0400
+date: 2023-04-25 16:11:00-0400
 inline: true 
 ---
 
-Invited speaker at Harvard University's [Data to Actionable Knowledge Lab](https://dtak.github.io/).
+I have been awarded a U.S. patent for _Detecting malware with deep generative models_.

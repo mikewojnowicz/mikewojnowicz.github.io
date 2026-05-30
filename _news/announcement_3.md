@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-05-24 16:11:00-0400
+date: 2025-07-18 16:11:00-0400
 inline: true 
 ---
 
-I presented new work _Scalable Bayesian multi-sample changepoint modeling_ at the _Recent Advances in Variational Inference_ session of the 2024 New England Statistics Symposium.
+Our paper, [Discovering group dynamics in coordinated time series via hierarchical recurrent switching-state models](https://arxiv.org/pdf/2401.14973), has been accepted for publication in TMLR 2025.

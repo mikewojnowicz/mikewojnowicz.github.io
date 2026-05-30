@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-01-01 16:11:00-0400
+date: 2026-03-09 16:11:00-0400
 inline: true 
 ---
 
-I have started a position as assistant professor in the Gianforte School of Computing at Montana State University.
+Landry Clarke has just been awarded an MSU Undergraduate Scholar Program Fellowship for her research with the ProbML lab. Congratulations, Landry!  
