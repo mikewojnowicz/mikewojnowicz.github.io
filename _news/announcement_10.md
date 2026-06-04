@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-29 16:11:00-0400
+date: 2026-03-09 16:11:00-0400
 inline: true 
 ---
 
-Invited speaker at Harvard University's [Data to Actionable Knowledge Lab](https://dtak.github.io/).
+Landry Clarke has just been awarded an MSU Undergraduate Scholar Program Fellowship for her research with the ProbML lab. Congratulations, Landry!  

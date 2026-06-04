@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-01-01 16:11:00-0400
+date: 2023-04-25 16:11:00-0400
 inline: true 
 ---
 
-I have started a position as assistant professor in the Gianforte School of Computing at Montana State University.
+I have been awarded a U.S. patent for _Detecting malware with deep generative models_.
