@@ -14,7 +14,7 @@ nav_order: 2
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; text-align: center;">
 
   <div>
-    <strong>Jack Ruder (PhD Student)</strong><br><br>
+    <strong>Jack Ruder (Ph.D. Student)</strong><br><br>
     <img src="/assets/img/jack.jpeg" style="width:50%;">
     <br><br>
     <small>Diffusion models for time series</small>
@@ -37,8 +37,8 @@ nav_order: 2
   </div>
 
   <div>
-    <strong>Owen Cool (Accelerated Master's)</strong><br><br>
-    <img src="/assets/img/owen.png" style="width:50%;">
+    <strong>Diego Moylan (Ph.D. Student)</strong><br><br>
+    <img src="/assets/img/diego.jpeg" style="width:50%;">
     <br><br>
     <small>TBD</small>
   </div>
