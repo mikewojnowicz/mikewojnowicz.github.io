@@ -38,7 +38,7 @@ nav_order: 2
 
   <div>
     <strong>Diego Moylan (Ph.D. Student)</strong><br><br>
-    <img src="/assets/img/diego.jpeg" style="width:50%;">
+    <img src="/assets/img/diego.jpg" style="width:50%;">
     <br><br>
     <small>TBD</small>
   </div>
